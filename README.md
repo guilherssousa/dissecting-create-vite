@@ -2,7 +2,7 @@
 
 Este repositório contém uma versão mastigada do código-fonte do [`create-vite`](https://github.com/vitejs/vite/tree/main/packages/create-vite), CLI usada para criar um novo projeto Vite. Seu propósito é estudar seu funcionamento e explicar de forma simples e clara o que é o `create-vite` e como ele funciona por debaixo dos panos.
 
-O código é fortemente comentado para que você possa entender o que está acontecendo.
+O código é fortemente comentado com suporte a JSDocs para que você possa entender o que está acontecendo.
 
 Eu escrevi um artigo no Medium, chamado ["Dissecando o create-vite: Entendendo como funciona a CLI do Vite"](https://medium.com/@guilherssousa/dissecando-o-create-vite-entendendo-como-funciona-a-cli-do-vite-e6ddfa196029) onde explico o processo de funcionamento da CLI em formato de blog post.
 
