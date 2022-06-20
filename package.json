@@ -1,0 +1,35 @@
+{
+  "name": "dissecting-create-vite",
+  "version": "1.0.0",
+  "description": "A case-study of create-vite package",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-vite": "index.js",
+    "cva": "index.js"
+  },
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherssousa/dissecting-create-vite.git"
+  },
+  "keywords": [
+    "vite"
+  ],
+  "author": "Guilherme Sousa",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/guilherssousa/dissecting-create-vite/issues"
+  },
+  "homepage": "https://github.com/guilherssousa/dissecting-create-vite#readme",
+  "dependencies": {
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "prompts": "^2.4.2"
+  }
+}
